@@ -1,0 +1,8 @@
+build
+venv
+temp
+snapshots
+.vscode
+__pycache__
+*.o
+*.a
